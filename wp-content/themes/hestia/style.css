@@ -2443,7 +2443,7 @@ body.admin-bar .navbar {
 }
 .navbar .navbar-header .navbar-brand img {
   width: auto;
-  max-height: 50px;
+  max-height: 100px;
 }
 .navbar .navbar-header .navbar-brand p {
   margin-bottom: 0;
